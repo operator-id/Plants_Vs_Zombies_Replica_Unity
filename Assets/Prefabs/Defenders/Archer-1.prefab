@@ -99,7 +99,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   projectile: {fileID: 7123664485752189771, guid: efed80ee66eed0c4aa1af3ea1882805b, type: 3}
   bow: {fileID: 593374910534290190}
-  attackCooldown: 3
+  attackCooldown: 1
 --- !u!114 &7479413254403233414
 MonoBehaviour:
   m_ObjectHideFlags: 0
