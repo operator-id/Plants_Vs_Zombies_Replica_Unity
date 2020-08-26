@@ -51,7 +51,7 @@ public class LevelLoader : MonoBehaviour
     public void QuitGame()
     {
        
-            UnityEditor.EditorApplication.isPlaying = false;
+           // UnityEditor.EditorApplication.isPlaying = false;
        
              Application.Quit();
 
