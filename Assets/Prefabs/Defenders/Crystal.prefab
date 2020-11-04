@@ -19,6 +19,7 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+<<<<<<< HEAD
 --- !u!1 &1441020061858208758
 GameObject:
   m_ObjectHideFlags: 0
@@ -118,6 +119,8 @@ MonoBehaviour:
   m_BlockingMask:
     serializedVersion: 2
     m_Bits: 4294967295
+=======
+>>>>>>> refs/remotes/origin/master
 --- !u!1 &3471870736993580601
 GameObject:
   m_ObjectHideFlags: 0
@@ -149,7 +152,10 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4251854883350678528}
+<<<<<<< HEAD
   - {fileID: 8752894366286277896}
+=======
+>>>>>>> refs/remotes/origin/master
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -205,6 +211,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   health: 50
+<<<<<<< HEAD
   healthSlider: {fileID: 7491656312196494520}
 --- !u!1001 &3542570518513925487
 PrefabInstance:
@@ -331,6 +338,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+=======
+>>>>>>> refs/remotes/origin/master
 --- !u!1001 &9142287697371495129
 PrefabInstance:
   m_ObjectHideFlags: 0

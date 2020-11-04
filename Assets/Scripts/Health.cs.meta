@@ -3,8 +3,12 @@ guid: 4b362c9cc735aa849b8607a686abae66
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
+<<<<<<< HEAD
   defaultReferences:
   - healthSlider: {fileID: 6259450046249683415, guid: d5e3b2d7a3ea20e40a6741cb59fcb87a, type: 3}
+=======
+  defaultReferences: []
+>>>>>>> refs/remotes/origin/master
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

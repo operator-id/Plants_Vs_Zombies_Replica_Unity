@@ -82,6 +82,7 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+<<<<<<< HEAD
 --- !u!1 &2442090022775189357
 GameObject:
   m_ObjectHideFlags: 0
@@ -181,6 +182,8 @@ MonoBehaviour:
   m_BlockingMask:
     serializedVersion: 2
     m_Bits: 4294967295
+=======
+>>>>>>> refs/remotes/origin/master
 --- !u!114 &9146305888132235950
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -193,6 +196,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d846388fb8681946b882403d7d7105c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
 --- !u!1001 &1761965826876828499
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -330,6 +334,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+=======
+>>>>>>> refs/remotes/origin/master
 --- !u!1001 &3304231620638810619
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -337,10 +343,13 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+<<<<<<< HEAD
     - target: {fileID: 483075964029795287, guid: 62691d120ce9a144a85d2870ca8fe18c, type: 3}
       propertyPath: healthSlider
       value: 
       objectReference: {fileID: 5669409824733733508}
+=======
+>>>>>>> refs/remotes/origin/master
     - target: {fileID: 607348713404754896, guid: 62691d120ce9a144a85d2870ca8fe18c, type: 3}
       propertyPath: preferredWalkSpeed
       value: 0.75

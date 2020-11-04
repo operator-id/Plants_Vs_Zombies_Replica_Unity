@@ -63,7 +63,10 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4999762723452137017}
+<<<<<<< HEAD
   - {fileID: 1123319330402883842}
+=======
+>>>>>>> refs/remotes/origin/master
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -153,7 +156,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   health: 100
+<<<<<<< HEAD
   healthSlider: {fileID: 3394263274600592818}
+=======
+>>>>>>> refs/remotes/origin/master
 --- !u!1 &6261130607143497354
 GameObject:
   m_ObjectHideFlags: 0
@@ -237,6 +243,7 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+<<<<<<< HEAD
 --- !u!1 &7197397213221127578
 GameObject:
   m_ObjectHideFlags: 0
@@ -461,3 +468,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+=======
+>>>>>>> refs/remotes/origin/master
