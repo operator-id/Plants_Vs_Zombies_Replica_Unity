@@ -927,6 +927,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Canvas
       objectReference: {fileID: 0}
+    - target: {fileID: 2335809893231794988, guid: 2d3a1d5255f3df24ea4f622bdbf75b15, type: 3}
+      propertyPath: m_TagString
+      value: MainCanvas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2d3a1d5255f3df24ea4f622bdbf75b15, type: 3}
 --- !u!1001 &3841119287648689648
@@ -1175,6 +1179,10 @@ PrefabInstance:
     - target: {fileID: 7463843499267913533, guid: d809506dbea43af4f9262415a05b9c15, type: 3}
       propertyPath: m_Name
       value: Buttons
+      objectReference: {fileID: 0}
+    - target: {fileID: 7463843499267913533, guid: d809506dbea43af4f9262415a05b9c15, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7463843499267913534, guid: d809506dbea43af4f9262415a05b9c15, type: 3}
       propertyPath: m_LocalPosition.x
